@@ -124,7 +124,7 @@
     <ClCompile Include="HellWindow.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="shader_uniform.cpp" />
+    <ClCompile Include="shader_class_use.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Shader.h" />

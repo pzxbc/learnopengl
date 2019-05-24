@@ -21,7 +21,7 @@
     <ClCompile Include="HellWindow.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="shader_uniform.cpp">
+    <ClCompile Include="shader_class_use.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
